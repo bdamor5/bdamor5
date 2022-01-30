@@ -23,6 +23,7 @@ Systems, Object Oriented Programming
 * [StarMart Ecommerce App](https://starmart-ecommerce.herokuapp.com)
 * [Video Calling App](https://video-chat-app5.netlify.app)
 * [Landind Page For A Travel Website](https://landing-page-trvl.netlify.app)
+* [Simple Netflix Clone](https://netflix-5.herokuapp.com)
 
 ## To know more about me :-
 * [My Portfolio Website](https://my-portfolio5.herokuapp.com)
