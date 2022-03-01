@@ -1,4 +1,4 @@
-# Hello Kind Visiter 👋 , I am Bhavesh 😁!
+# Hello Kind Visiter 👋 , I am Bhavesh!
 
 ## A Full Stack Developer (MERN & PERN stack).
 
