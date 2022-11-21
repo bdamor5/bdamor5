@@ -6,27 +6,21 @@
 
 ## My tech skills include :- 
 
-* Frontend - HTML , CSS , Bootstrap, Javascript , ReactJS ,Material-UI, Styled Components,  Redux , Redux-Thunk
+* Frontend - HTML , CSS , Bootstrap, Javascript , ReactJS ,Material-UI, Styled Components,  Redux , NextJS , Tailwind CSS
 
 * Backend - NodeJS, Express
 
-* Database - MongoDB/MongoDB Atlas , PostgreSQL 
+* Database - MongoDB , PostgreSQL , MySQL
 
-* Others - C, C++, Microsoft Azure 
+* Others - C, C++, Microsoft Azure , Google Firebase , Metronics 8 , Google App Scripts
 
 ## My Areas of Expertise include :-
 
 * Data structures & Algorithms ,Database Management
 Systems, Object Oriented Programming
 
-## Projects That I Built :-
-* [StarMart Ecommerce App](https://starmart-ecommerce.herokuapp.com)
-* [Video Calling App](https://video-chat-app5.netlify.app)
-* [Landind Page For A Travel Website](https://landing-page-trvl.netlify.app)
-* [Simple Netflix Clone](https://netflix-5.herokuapp.com)
-
 ## To know more about me :-
-* [My Portfolio Website](https://my-portfolio5.herokuapp.com)
+* [My Portfolio Website](https://portfolio-bdamor5.vercel.app/)
 * [LinkedIn](https://linkedin.com/in/bhavesh-damor)
 
 ## If you want to let me know your thoughts you can mail me at :- 
