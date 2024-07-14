@@ -24,7 +24,7 @@ Systems, Object Oriented Programming
 * [LinkedIn](https://linkedin.com/in/bhavesh-damor)
 
 ## If you want to let me know your thoughts you can mail me at :- 
-* bhaveshdamor5555@gmail.com
+* bhavesh5work@gmail.com
 
 # Thank You ! 
 
