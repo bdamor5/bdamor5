@@ -1,26 +1,20 @@
 # Hello Kind Visiter 👋 , I am Bhavesh!
 
-## A Full Stack Developer (MERN & PERN stack).
+## A Full Stack Developer.
 
 * A passionate and enthusiastic web developer.I love new challenges and new projects that help me invest all my skills and experience into succeeding them.I give my best to any work regarding this field.
 
 ## My tech skills include :- 
 
-* Frontend - HTML , CSS , Bootstrap, Javascript , ReactJS ,Material-UI, Styled Components,  Redux , NextJS , Tailwind CSS
+* Programming Languages - C/C++, HTML, CSS, JavaScript, TypeScript, SQL
 
-* Backend - NodeJS, Express
+* Technologies - React, NextJS, Node, Express, PostgreSQL, MySQL, MongoDB, Firebase, Microsoft Azure
 
-* Database - MongoDB , PostgreSQL , MySQL
-
-* Others - C, C++, Microsoft Azure , Google Firebase , Metronics 8 , Google App Scripts
-
-## My Areas of Expertise include :-
-
-* Data structures & Algorithms ,Database Management
-Systems, Object Oriented Programming
+* Development Tools - GitHub, Bootstrap, Material-UI, Styled Components, Tailwind CSS, Redux, Formik, Docusaurus,
+React-testing-library, Jest, Google App Scripts, Redis, Socket.io, GSAP
 
 ## To know more about me :-
-* [My Portfolio Website](https://portfolio-bdamor5.vercel.app/)
+* [My Portfolio Website](https://my-portfolio-sage-pi-46.vercel.app/)
 * [LinkedIn](https://linkedin.com/in/bhavesh-damor)
 
 ## If you want to let me know your thoughts you can mail me at :- 
