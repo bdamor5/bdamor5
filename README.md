@@ -11,7 +11,7 @@
 * Technologies - React, NextJS, Node, Express, PostgreSQL, MySQL, MongoDB, Firebase, Microsoft Azure
 
 * Development Tools - GitHub, Bootstrap, Material-UI, Styled Components, Tailwind CSS, Redux, Formik, Docusaurus,
-React-testing-library, Jest, Google App Scripts, Redis, Socket.io, GSAP
+React-testing-library, Jest, Google App Scripts, Socket.io, GSAP
 
 ## To know more about me :-
 * [My Portfolio Website](https://my-portfolio-sage-pi-46.vercel.app/)
